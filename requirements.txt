@@ -6,4 +6,4 @@ itertools
 google-generativeai
 chromadb
 sentence-transformers
-collections-extended # Se você usar Counter de lá, mas Counter é nativo
+#collections-extended # Se você usar Counter de lá, mas Counter é nativo
