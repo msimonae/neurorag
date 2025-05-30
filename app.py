@@ -8,7 +8,7 @@ import chromadb
 from chromadb import PersistentClient
 from sentence_transformers import SentenceTransformer
 from collections import Counter
-
+# Pequena alteração para forçar rebuild
 # --- Configuração da Página Streamlit ---
 st.set_page_config(page_title="NeuroGRAG - Copiloto Clínico", layout="wide")
 st.title("🧠 NeuroGRAG: Copiloto Clínico Explicável")
